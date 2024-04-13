@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="New folder (3)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/06_float.jar!/" />
+      <root url="jar://$PROJECT_DIR$/05_arithematic_operations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/04_variables.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
