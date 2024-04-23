@@ -1,6 +1,7 @@
 import kotlin.math.sqrt
 
 class Rectange(var a: Double, var b: Double){
+    
     init{
         println("Rectangle created with a=$a and b=$b")
     }
