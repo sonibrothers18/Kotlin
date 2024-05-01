@@ -6,6 +6,8 @@ fun main(){
     println(a[0])
 
     // var b = listOf(45, 51, 74, 25)
+    var x = (1..10).toList()
+    println(x)
     // println(b[0])
     // //! In list we cannot change the value
     // b[0] = 100
@@ -37,7 +39,5 @@ fun main(){
             d.add(x)
     }
     println(d.reversed())
-
-
 
 }
